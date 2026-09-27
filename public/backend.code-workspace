@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../backend"
+		},
+		{
+			"path": "../../data_generator"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
